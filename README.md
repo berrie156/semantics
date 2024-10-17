@@ -1,2 +1,2 @@
 # semantics
-tugas
+tugas css,semntics
